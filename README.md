@@ -10,8 +10,7 @@ Features
 - Track total expenses.
 - Categorize expenses.
 - View transaction history.
-- [Add other features that are implemented in your project.]
-
+  
 Technologies Used
 
 - HTML5
