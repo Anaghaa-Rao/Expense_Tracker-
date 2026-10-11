@@ -132,7 +132,7 @@ button {
     min-height: 75vh;
     display: flex;
     align-items: center;
-    padding: 65px 7%;
+    padding: 60px 7%;
     background:
         radial-gradient(
             circle at 85% 20%,
@@ -143,7 +143,7 @@ button {
 }
 
 .hero-content {
-    max-width: 720px;
+    max-width: 730px;
 }
 
 .hero h1 {
