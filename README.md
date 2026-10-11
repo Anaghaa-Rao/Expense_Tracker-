@@ -37,8 +37,6 @@ Project Structure
 - "style.css" — Handles the layout and styling.
 - "script.js" — Handles the application's functionality.
 
-Update these filenames to match your actual project.
-
 Limitations
 
 - Expense and budget data are stored locally in the browser.
