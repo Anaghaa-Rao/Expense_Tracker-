@@ -57,8 +57,4 @@ Anaghaa Rao.
 
 License
 
-This project is available for educational and portfolio purposes. [Add a specific open-source license only if you intend to apply one.]
-
-
-
-
+This project is available for educational and portfolio purposes.
